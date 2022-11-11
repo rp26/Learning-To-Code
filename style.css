@@ -3,3 +3,7 @@
 h1 {
     font-family: "Oxygen", sans-serif;
 }
+
+.row {
+    width: 50rem;
+}
